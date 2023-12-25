@@ -1,0 +1,44 @@
+{
+  "name": "edge-bot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "stripe": "stripe listen --forward-to localhost:3000/api/webhooks/stripe",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.4.0",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "ai": "^2.1.17",
+    "autoprefixer": "10.4.14",
+    "clsx": "^2.0.0",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "langchain": "^0.0.212",
+    "next": "14.0.2",
+    "openai": "^3.3.0",
+    "openai-edge": "^1.2.0",
+    "postcss": "8.4.25",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-markdown": "^8.0.7",
+    "react-syntax-highlighter": "^15.5.0",
+    "recordrtc": "^5.6.2",
+    "remark-gfm": "^3.0.1",
+    "remark-math": "^5.1.1",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/react-syntax-highlighter": "^15.5.7",
+    "@types/recordrtc": "^5.6.14"
+  }
+}
