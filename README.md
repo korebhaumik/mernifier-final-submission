@@ -36,21 +36,21 @@ Powered by the SOTA Multi-Agent-Based Architectures, our AI bot delivers Accurat
 
 ## Code Generation using Prompt
 
-https://github.com/korebhaumik/mernifier-web/assets/91827941/0307c610-240b-4319-bb31-bb5100600bce
+https://github.com/korebhaumik/mernifier-final-submission/assets/106856064/d469f68e-c66c-4a6c-b57b-9e03e4553bd0
 
 The following video showcases the ability of our chatbot to take a text prompt for code creation and return a flawless and errorless code.
 
 
 ## Code Generation using File Completion
 
-https://github.com/korebhaumik/mernifier-web/assets/91827941/cbc2be9e-97b1-4bf0-adb5-47fd19a330d3
+https://github.com/korebhaumik/mernifier-final-submission/assets/106856064/569c4a9d-b7ce-492f-a8ac-1c4edda2ca61
 
 The following video showcases the ability of our chatbot to take an existing code file and use that as a context along with the prompt for effective code creation.
 
 
 ## Code Generation using Voice Commands
 
-https://github.com/korebhaumik/mernifier-web/assets/91827941/36866d09-0b04-437c-96fd-6ed8e1ba666d
+https://github.com/korebhaumik/mernifier-final-submission/assets/106856064/f9146ab3-dc2d-4ff7-8758-90550ec476a2
 
 The following video showcases the ability of our chatbot to take voice input and return flawless code effectively.
 
