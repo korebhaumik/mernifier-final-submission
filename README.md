@@ -70,7 +70,7 @@ The following video showcases the ability of our chatbot to take voice input and
 
 ## Mind-Boggling Features
 
-![Alt text](mern_final_dia.png)
+![image](https://github.com/korebhaumik/mernifier-final-submission/assets/106856064/d5bf96bb-bf57-496b-8cc1-dece8b19d2dc)
 
 - Tired of AI generated codes with errors? reliably generate error-free MERN Code
 - Experience the Incredible Profeciency of a Bot trained to do one thing and one thing only, generate MERN code
